@@ -1,0 +1,22 @@
+.bo{
+    align-items: center;
+    background-image:
+}
+.fm{
+    text-align: center;
+    margin-top: 5%;
+}
+.t{ padding-top:1%;
+font-size: 20px;
+
+    
+
+}
+input[type="email"]{
+    width:45px;
+    height:30px;
+}
+input[type="password"]{
+    width:250px;
+    height:30px;
+}
